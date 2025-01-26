@@ -1,5 +1,6 @@
 # PCB sample projects
 This repository contains my PCB designs made in KiCad and Altium designer. 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevraux%2FPCB_Projects&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Signal Sniffer
 | ![Image](https://github.com/user-attachments/assets/d704836a-8422-4dd4-9923-f819070831b1) | ![Image](https://github.com/user-attachments/assets/a8d4e926-7615-4794-af13-562589f56e53) |
