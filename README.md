@@ -2,7 +2,7 @@
 This repository contains my PCB designs made in KiCad and Altium designer. 
 
 # Signal Sniffer
-| ![Image](https://github.com/user-attachments/assets/d704836a-8422-4dd4-9923-f819070831b1) | ![Image](https://github.com/user-attachments/assets/a8d4e926-7615-4794-af13-562589f56e53) |
+| ![Image](https://github.com/user-attachments/assets/d704836a-8422-4dd4-9923-f819070831b1) | ![Image](https://github.com/user-attachments/assets/a8d4e926-7615-4794-af13-562589f56e53) | ![Image](https://github.com/user-attachments/assets/a61e96d0-7bea-4c86-95d0-a5c14eb4b5c8)
 |------------------------------------------------------------|-------------------------------------------------------------|
 | ![Image](https://github.com/user-attachments/assets/3eaba73a-e4ec-4599-8dee-3d0dfa691a9e) | |
 
