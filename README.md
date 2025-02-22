@@ -17,3 +17,12 @@ This repository contains my PCB designs made in KiCad and Altium designer.
 | ![Image](https://github.com/user-attachments/assets/83bd5c41-7fdd-4d73-9849-3fd8f15df2e6) | ![Image](https://github.com/user-attachments/assets/e7d2f7fc-2097-4340-88da-8727a8dae380) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 | ![Image](https://github.com/user-attachments/assets/34af2325-e964-4f3f-ad81-85138f59bca5) | ![Image](https://github.com/user-attachments/assets/c55eadda-fd8b-48dd-a417-f69e28778172) |
+
+# Clock buffer & signal translator
+|------------------------------------------------------------|-------------------------------------------------------------|
+|![Image](https://github.com/user-attachments/assets/441b1648-bef9-44ca-9eb9-179192646713) | ![image](https://github.com/user-attachments/assets/6bfed20c-cecc-466d-b2c9-40afacf0d934) |
+
+# Raspberry Pi Pico PIO Signal sniffer
+|------------------------------------------------------------|-------------------------------------------------------------|
+| ![image](https://github.com/user-attachments/assets/d985f64f-7023-4bc2-9978-ec724fe6a462) | ![image](https://github.com/user-attachments/assets/b057d902-ddf8-4a96-81dd-ba99d97267e4) |
+
