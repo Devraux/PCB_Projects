@@ -26,3 +26,16 @@ This repository contains my PCB designs made in KiCad and Altium designer.
 | ![image](https://github.com/user-attachments/assets/d985f64f-7023-4bc2-9978-ec724fe6a462) | ![image](https://github.com/user-attachments/assets/b057d902-ddf8-4a96-81dd-ba99d97267e4) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
+# HDMI FPGA PMOD adapter
+| ![Image](https://github.com/user-attachments/assets/8041b296-509a-4be3-beab-c3a8d581166a) | ![Image](https://github.com/user-attachments/assets/f9280ccd-bc11-461c-9326-2b2ba94be29c) |
+|------------------------------------------------------------|-------------------------------------------------------------|
+
+# Raspberry Pi Pico - Digital probe with HDMI adapter
+| ![image](https://github.com/user-attachments/assets/782b7f83-94e4-4cbe-ad8f-64298dbb453b) | ![image](https://github.com/user-attachments/assets/c6d63844-2d94-4875-9b3c-220e10d8f9d5) |
+|------------------------------------------------------------|-------------------------------------------------------------|
+
+| ![image](https://github.com/user-attachments/assets/fcb66589-95b1-4e1a-93bc-8551fe9cdec8) | ![image](https://github.com/user-attachments/assets/1e1154ee-61d6-4f3c-a333-89383294e71f) |
+|------------------------------------------------------------|-------------------------------------------------------------|
+
+
+
