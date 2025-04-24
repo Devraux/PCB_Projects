@@ -37,5 +37,11 @@ This repository contains my PCB designs made in KiCad and Altium designer.
 | ![image](https://github.com/user-attachments/assets/fcb66589-95b1-4e1a-93bc-8551fe9cdec8) | ![image](https://github.com/user-attachments/assets/1e1154ee-61d6-4f3c-a333-89383294e71f) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
+# FPGA ZYNQ Clock TDC
+| ![image](https://github.com/user-attachments/assets/b340f29d-b8d6-4759-8131-95569c73c616) | ![image](https://github.com/user-attachments/assets/e1bcf508-eb9e-45ec-8b2c-d46c5778473e)|
+|------------------------------------------------------------|-------------------------------------------------------------|
+
+
+
 
 
