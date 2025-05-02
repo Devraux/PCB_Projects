@@ -1,6 +1,6 @@
 # PCB sample projects
 This repository contains my PCB designs made in KiCad and Altium designer. 
-
+In some cases there is no silkscreen - this is caused by our custom fabrication methods.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devraux.PCB_Projects)
 
 
