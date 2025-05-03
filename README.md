@@ -1,6 +1,7 @@
 # PCB sample projects
 This repository contains my PCB designs made in KiCad and Altium designer. 
 In some cases there is no silkscreen - this is caused by our custom fabrication methods.
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devraux.PCB_Projects)
 
 
@@ -39,10 +40,15 @@ In some cases there is no silkscreen - this is caused by our custom fabrication 
 |------------------------------------------------------------|-------------------------------------------------------------|
 
 # FPGA ZYNQ Clock TDC
-| ![image](https://github.com/user-attachments/assets/b340f29d-b8d6-4759-8131-95569c73c616) | ![image](https://github.com/user-attachments/assets/e1bcf508-eb9e-45ec-8b2c-d46c5778473e)|
+| ![image](https://github.com/user-attachments/assets/245c804e-6782-4cb3-bf95-10a12e26e0f3) | ![image](https://github.com/user-attachments/assets/244f5e24-6251-4481-aec6-cf34cd023bf5) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
+| ![image](https://github.com/user-attachments/assets/26f131a4-2a99-43e7-af96-47f509f3a1b5) | ![image](https://github.com/user-attachments/assets/cd67931a-a375-4f71-8968-425405e984c7) |
+|------------------------------------------------------------|-------------------------------------------------------------|
 
+# FPGA RJ11 adapter with RS232 translator
+| ![image](https://github.com/user-attachments/assets/f76be4be-526a-41b0-81c0-3dc209b5dadb) | ![image](https://github.com/user-attachments/assets/5f64c3f4-fcda-4cf5-92ef-91a9b3d51721) |
+|------------------------------------------------------------|-------------------------------------------------------------|
 
 
 
