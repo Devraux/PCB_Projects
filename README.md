@@ -1,6 +1,7 @@
 # PCB sample projects
 This repository contains my PCB designs made in KiCad and Altium designer. 
 In some cases there is no silkscreen - this is caused by our custom fabrication methods.
+In some cases there are "huge" vias - this is caused by our custom(handmoade) fabrication via methods
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Devraux.PCB_Projects)
 
@@ -22,6 +23,8 @@ In some cases there is no silkscreen - this is caused by our custom fabrication 
 
 # Clock buffer & signal translator
 | ![Image](https://github.com/user-attachments/assets/441b1648-bef9-44ca-9eb9-179192646713) | ![image](https://github.com/user-attachments/assets/6bfed20c-cecc-466d-b2c9-40afacf0d934) |
+|------------------------------------------------------------|-------------------------------------------------------------|
+![image](https://github.com/user-attachments/assets/2b765207-3573-4b98-925b-c93b35275c1b) | |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
 # Raspberry Pi Pico PIO Signal sniffer
