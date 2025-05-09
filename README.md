@@ -24,8 +24,6 @@ In some cases there are "huge" vias - this is caused by our custom(handmoade) fa
 # Clock buffer & signal translator
 | ![Image](https://github.com/user-attachments/assets/441b1648-bef9-44ca-9eb9-179192646713) | ![image](https://github.com/user-attachments/assets/6bfed20c-cecc-466d-b2c9-40afacf0d934) |
 |------------------------------------------------------------|-------------------------------------------------------------|
-![image](https://github.com/user-attachments/assets/2b765207-3573-4b98-925b-c93b35275c1b) | |
-|------------------------------------------------------------|-------------------------------------------------------------|
 
 # Raspberry Pi Pico PIO Signal sniffer
 | ![image](https://github.com/user-attachments/assets/d985f64f-7023-4bc2-9978-ec724fe6a462) | ![image](https://github.com/user-attachments/assets/b057d902-ddf8-4a96-81dd-ba99d97267e4) |
@@ -44,6 +42,9 @@ In some cases there are "huge" vias - this is caused by our custom(handmoade) fa
 
 # FPGA ZYNQ Clock TDC
 | ![image](https://github.com/user-attachments/assets/245c804e-6782-4cb3-bf95-10a12e26e0f3) | ![image](https://github.com/user-attachments/assets/244f5e24-6251-4481-aec6-cf34cd023bf5) |
+|------------------------------------------------------------|-------------------------------------------------------------|
+
+| ![image](https://github.com/user-attachments/assets/2b765207-3573-4b98-925b-c93b35275c1b) | ![image](https://github.com/user-attachments/assets/3e40eb6f-bfe7-48a8-ad13-da1d5d97d253) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
 | ![image](https://github.com/user-attachments/assets/26f131a4-2a99-43e7-af96-47f509f3a1b5) | ![image](https://github.com/user-attachments/assets/cd67931a-a375-4f71-8968-425405e984c7) |
