@@ -55,10 +55,10 @@ In some cases there are "huge" vias - this is caused by our custom(handmoade) fa
 |------------------------------------------------------------|-------------------------------------------------------------|
 
 # Clock signal splitter(2 x 12)
-| ![image](https://github.com/user-attachments/assets/ea1d2c2d-f61d-4e75-8175-9dcc353803dc) | ![image](https://github.com/user-attachments/assets/561dd29f-bf55-412b-973e-760523f0810e) |
+| ![image](https://github.com/user-attachments/assets/5021bbaf-52b4-46e1-acf3-cce9be43aad6) | ![image](https://github.com/user-attachments/assets/597e4f92-19f5-438a-afcd-864629c9cc01) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
-| ![image](https://github.com/user-attachments/assets/9ecf9727-a969-4379-924c-503bc36590c9) |  ![image](https://github.com/user-attachments/assets/e0ba8b75-fb2c-4104-b7fa-71f044c29e7d) |
+| ![image](https://github.com/user-attachments/assets/9ecf9727-a969-4379-924c-503bc36590c9) | ![image](https://github.com/user-attachments/assets/c20e15c7-ac38-4803-ab92-def1a38ce7d8) |
 |------------------------------------------------------------|-------------------------------------------------------------|
 
 
